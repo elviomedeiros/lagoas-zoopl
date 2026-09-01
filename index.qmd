@@ -1,8 +1,9 @@
 ---
 title: "Title"
 subtitle: |
-  Subtitle 1  
-  Subtitle 2   
+  Subtitle 1<br>
+  OR<br>
+  Subtitle 2
 author:
   - name: Steve Purves
     orcid: 0000-0002-0760-5497
@@ -49,7 +50,7 @@ format:
   docx:
     execute:
       echo: false
-    reference-doc: custom-reference.docx
+    reference-doc: refs/custom-reference.docx
 execute:
   echo: true
   result: hold
