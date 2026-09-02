@@ -123,6 +123,8 @@ Data and methods are discussed in @sec-data-col. This citation will appear in th
 
 ## Study Area and Sampling Design
 
+O estudo foi realizado em uma lagoa temporária localizada no município de Lagoa Salgada, no estado do Rio Grande do Norte, região Nordeste do Brasil. O município possui uma área de aproximadamente 79,128 km² (IBGE, 2024). A região apresenta clima quente e semiárido, com temperatura média anual de 25,6 °C e regime pluviométrico concentrado entre os meses de março e junho (IBGE, 2024). As lagoas da área sofrem influência de ações antrópicas, como práticas agrícolas e a instalação de pequenas barragens, fatores que podem alterar a dinâmica hidrológica e as características ambientais desses ambientes aquáticos temporários (Ramos *et al*., 2023).
+
 See publications by @gouveia2017.
 
 ## Data Collection {#sec-data-col}
